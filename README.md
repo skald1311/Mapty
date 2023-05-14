@@ -63,16 +63,19 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 **Mapty** is a web application that allows users to map their workouts and track their fitness progress interactively. Utilizing the open-source Leaflet Javascript library, Mapty provides an interactive map that makes it easy for users to visualize and plan their exercise routine based on their location. With Mapty, users can create different types of workouts, such as running or cycling, and record important information like distance, duration, cadence or elevation gain. The application takes advantage of the browser's local storage to store users' history and load it back when users come back. Whether you're a fitness enthusiast or simply looking to stay active, Mapty boasts its friendly and simple interface that helps users to make exercise a regular part of their routine.
+![image](https://github.com/skald1311/Mapty/assets/84189062/1e16e9a7-dffa-4ba0-97c2-97a9a3c829f3)
 
 <pre>
 **Implemented Features:** 
     + Approximate location
     + Interactive map that users can click to place markers for their workouts
     + Each workout takes in data such as workout type (cycling or running), distance, duration, cadence or elevation gain, as well as the current date
+    + Clicking on a workout on the sidebar will pan the camera towards that location 
     + How to reset everything: CTRL+SHIFT+J -> Console -> Type app.reset()
 </pre>
 
 How to add a workout: allow location -> click a desired location for workout -> input information -> press Enter
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
