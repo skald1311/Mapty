@@ -70,7 +70,9 @@
     + Interactive map that users can click to place markers for their workouts
     + Each workout takes in data such as workout type (cycling or running), distance, duration, cadence or elevation gain, as well as the current date
     + How to reset everything: CTRL+SHIFT+J -> Console -> Type app.reset()
-</pre>                          
+</pre>
+
+How to add a workout: allow location -> click a desired location for workout -> input information -> press Enter
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
