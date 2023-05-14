@@ -25,7 +25,7 @@
   <p align="center">
     An app to map your workouts
     <br />
-    <a href="https://github.com/skald1311/Mapty"><strong>Explore the docs »</strong></a>
+    <a href="https://skald1311.github.io/mapty/"><strong>LIVE DEMO</strong></a>
     <br />
     <br />
     <a href="https://github.com/skald1311/Mapty/issues">Report Bug</a>
