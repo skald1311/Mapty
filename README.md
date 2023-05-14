@@ -82,6 +82,8 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
+LIVE DEMO AVAILABLE [HERE](https://skald1311.github.io/mapty/)
+
 To get a local copy up and running follow these simple example steps.
 
 ### Installation
