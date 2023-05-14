@@ -62,18 +62,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-The name of the project probably already describes everything there is about this project. In short, the goal of the game is to guess the correct number. It includes a highscore, a play again button and every time you guess wrong, the game will provide a hint: higher or lower. This is a straightforward game as this is my first time using Javascript to manipulate DOM and CSS. In development, I used NodeJS's live server to visualize the game as I write my code. In my perspective, teachers, and professors can easily utilize this game in their lectures to teach the fundamentals of the **Binary Search algorithm**. There will be instructions to play the game yourself in your browser but I'll put a demo play here in case anything goes wrong.
-Here is the starting screen:
-![image](https://user-images.githubusercontent.com/84189062/210020562-ce05f575-1c37-4d5f-8720-8c3e8634be2f.png)
-Let's test this: let the first guess be 10
-![image](https://user-images.githubusercontent.com/84189062/210020675-d2cff478-380b-4b66-a37c-4a33f3f67bd8.png)
-As we can see, it says too low which means the guess is wrong and 1 point is deducted from our total score of 20.
-After guessing for a while, we eventually reached the correct answer:
-![image](https://user-images.githubusercontent.com/84189062/210021032-236ea78d-f3b0-4297-8869-622aa2c8faa6.png)
-As we can see, the background changes to green indicating the correct answer, and the question mark in the middle of the screen changes into the correct answer.
-The score will then be compared to the highscore.
-If the point goes to 0, we will lose the game.
-We can always play the game again by clicking Again
 
 
 
@@ -151,7 +139,7 @@ Distributed under the MIT License.
 
 Duong Hoang - [LinkedIn](https://www.linkedin.com/in/hmd1311/)
 
-Project Link: [https://github.com/skald1311/Guess-My-Number](https://github.com/skald1311/Guess-My-Number)
+Project Link: [https://github.com/skald1311/mapty](https://github.com/skald1311/mapty)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
