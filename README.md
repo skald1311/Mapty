@@ -15,10 +15,10 @@
 <br />
 <div align="center">
   <a href="https://github.com/skald1311/Mapty">
-    <img src="https://github.com/skald1311/Mapty/assets/84189062/a148be62-a844-4352-9f11-5890d0628279" alt="Logo" width="80" height="80">
+    <img src="https://github.com/skald1311/Mapty/assets/84189062/a148be62-a844-4352-9f11-5890d0628279" alt="Logo" width="100" height="100">
   </a>
 
-![icon](https://github.com/skald1311/Mapty/assets/84189062/a148be62-a844-4352-9f11-5890d0628279)
+
 
 <h3 align="center">Mapty</h3>
 
