@@ -69,7 +69,7 @@
 
 <pre>
 **Implemented Features:** 
-    + Approximate location
+    + Approximate location using Geolocation API
     + Interactive map that users can click to place markers for their workouts
     + Each workout takes in data such as workout type (cycling or running), distance, duration, cadence or elevation gain, as well as the current date
     + Clicking on a workout on the sidebar will pan the camera towards that location 
